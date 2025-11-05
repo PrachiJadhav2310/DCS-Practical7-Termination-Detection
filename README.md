@@ -1,0 +1,3 @@
+javac TerminationDetection.java
+
+java TerminationDetection
